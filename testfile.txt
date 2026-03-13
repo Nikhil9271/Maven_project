@@ -1,1 +1,1 @@
-Hi this is my maven
+Hi this is my maven project
